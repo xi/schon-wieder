@@ -1,0 +1,22 @@
+{
+	"name": "brandmauer",
+	"version": "1.0.0",
+	"description": "",
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"check": "prettier -c .",
+		"format": "prettier -w ."
+	},
+	"devDependencies": {
+		"prettier": "3.4.2"
+	},
+	"prettier": {
+		"printWidth": 100,
+		"tabWidth": 3,
+		"useTabs": true
+	}
+}
