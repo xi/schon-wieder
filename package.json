@@ -24,7 +24,8 @@
 	"prettier": {
 		"printWidth": 100,
 		"tabWidth": 3,
-		"useTabs": true
+		"useTabs": true,
+		"singleQuote": true
 	},
 	"dependencies": {
 		"sass": "^1.83.4"
