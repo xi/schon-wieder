@@ -19,7 +19,7 @@ if (process.argv[2] === 'dev') {
 
 function build(): string {
 	let content = readFileSync('../template/text.html', 'utf8');
-	content = content.replace(/(\w*)\[(.*?)\/(.*?)\](\w*)/gs, (_, pre: string, alt: string, neu: string, post: string) => {
+	content = content.replace(/(\w*)\[(.*?)\/(.*?)\]([a-z,.]*)/gs, (_, pre: string, alt: string, neu: string, post: string) => {
 		pre = pre.trim();
 		alt = alt.trim();
 		neu = neu.trim();
