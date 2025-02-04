@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"checkJs": false,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": false,
+		"skipLibCheck": false,
+		"sourceMap": false,
+		"strict": true,
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext"
+	},
+	"include": ["script/*.ts"]
+}
