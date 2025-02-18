@@ -1,3 +1,5 @@
+_Meinungsbeitrag_ 
+
 # Der Aufstieg der NSDAP
 
 ## Ein historischer Rückblick
