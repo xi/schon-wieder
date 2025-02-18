@@ -37,24 +37,26 @@ function build(): { alt: string, neu: string, html: string } {
 
 	function generateContent(content: string): { alt: string, neu: string, html: string } {
 		return {
-			alt: convert((pre, alt, neu, post) => `${pre}${alt}${post}`),
-			neu: convert((pre, alt, neu, post) => `${pre}${neu}${post}`),
+			alt: convert((pre, alt, neu, post) => `${pre}${clean(alt)}${post}`),
+			neu: convert((pre, alt, neu, post) => `${pre}${clean(neu)}${post}`),
 			html: convert((pre, alt, neu, post) => {
 				let style = '';
 				if (alt.startsWith('$')) {
-					alt = alt.slice(1);
 					style = ' style="text-align: left"';
 				} else if (neu.endsWith('$')) {
-					neu = neu.slice(0, -1);
 					style = ' style="text-align: right"';
 				}
 
-				let html = `<span class="switch"${style}><span>${alt}</span><br><span>${neu}</span></span>`;
+				let html = `<span class="switch"${style}><span>${clean(alt)}</span><br><span>${clean(neu)}</span></span>`;
 				if (pre || post) {
 					html = `<nobr>${pre}${html}${post}</nobr>`;
 				}
 				return html;
 			}),
+		}
+
+		function clean(text: string): string {
+			return text.replace(/^\$+|\$+/, '');
 		}
 
 		function convert(cb: (pre: string, alt: string, neu: string, post: string) => string): string {
