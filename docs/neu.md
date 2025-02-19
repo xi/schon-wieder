@@ -8,13 +8,13 @@ _Meinungsbeitrag_
 
 ## Die Anfänge
 
- Eines der zentralen Strategien der AfD war der massive Einsatz von Propaganda in eigenen Medien und öffentlichen Auftritten. Sie wiederholte beständig rassistische Unwahrheiten und Verschwörungserzählungen, verbreitete Angst und Hass auf im Internet, bis die Narrative in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker sie übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungs­schichten zu mobilisieren.
+ Eines der zentralen Strategien der AfD war der massive Einsatz von Propaganda in eigenen Medien und öffentlichen Auftritten. Sie wiederholte beständig rassistische Unwahrheiten und Verschwörungserzählungen, verbreitete Angst und Hass im Internet und radikalisierte ihre Anhänger, bis die Narrative in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker sie übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungs­schichten zu mobilisieren.
 
  Die großen Parteien der Bundesrepublik - die Sozialdemokratische Partei Deutschlands (SPD), die Christlich Demokratische Union (CDU) und die Christlich Soziale Union (CSU) - versuchten, die Demokratie zu stabilisieren, konnten aber angesichts von Inflation, Arbeitslosigkeit und politischer Radikalisierung oft nicht genügend Widerstand leisten. Hinzu kamen gegensätzliche Strategien im Umgang mit der AfD: Konservative sahen die Ausbreitung rechtsextremer Positionen in Teilen der Bevölkerung nicht als Folge der AfD-Propaganda, sondern als Ausdruck der öffentlichen Meinung. Sie folgten daher dem Rechtsruck, was zu einer weiteren politischen Spaltung der politischen Mitte führte.
 
  Die bürgerlich-liberale FDP war zwar eine wichtige politische Kraft in der Bundesrepublik, entwickelte aber zunehmend einen wirtschaftsliberalen Kurs und rückte ab 2024 nach rechts. Dadurch verlor sie immer mehr an Zustimmung, bis sie schließlich bedeutungslos wurde.
 
- Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die AfD fand so in den linken Parteien ihren größten politischen Gegner und verunglimpfte sie und ihre Anhänger als links-grün-versifft.
+ Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die AfD fand so in den linken Parteien ihren größten politischen Gegner und beschimpfte sie und ihre Anhänger als links-grün-versifft.
 
 ## Frühe Jahre und politische Radikalisierung
 
@@ -26,7 +26,7 @@ _Meinungsbeitrag_
 
  Während die SPD-geführte Regierung mit ihren koalitionsinternen Problemen beschäftigt war, vollzog sich eine weitere Radikalisierung der Parteienlandschaft. So spaltete sich aus der linken Partei das BSW ab, um nach kurzen Erfolgen wieder zu zerfallen.
 
- Gleichzeitig übernahmen die konservativen Parteien Positionen der AfD. So rückte die CDU immer weiter nach rechts: 2022 setzte sich Friedrich Merz bei der Wahl zum neuen Parteivorsitzenden gegen die zwei gemäßigte Gegenkandidaten durch. Schnell wurde deutlich, dass Merz in den linken Parteien einen größeren politischen Gegner sah als in der AfD. So griff er immer wieder die Parteien links der CDU an und rückte die Partei durch populistischen Äußerungen weiter nach rechts. Spätestens 2025 zeigte Merz, dass er sich aus Pragmatismus auch der AfD annähern würde.
+ Gleichzeitig übernahmen die konservativen Parteien Positionen der AfD. So rückte die CDU immer weiter nach rechts: 2022 setzte sich Friedrich Merz bei der Wahl zum neuen Parteivorsitzenden gegen die zwei gemäßigte Gegenkandidaten durch. Schnell wurde deutlich, dass Merz in den linken Parteien einen größeren politischen Gegner sah als in der AfD. So griff er immer wieder die Parteien links der CDU an und rückte die eigene Partei durch populistischen Äußerungen weiter nach rechts. Spätestens 2025 zeigte Merz, dass er sich aus Pragmatismus auch der AfD annähern würde.
 
  Die vorgezogene Neuwahl des Bundestags im Februar 2025 kam der AfD sehr gelegen. Die schlechten Ergebnisse der Vorgängerregierung und die zahlreichen Streitigkeiten zwischen den demokratischen Parteien trieben die Wähler in die Arme der AfD. Sie erzielte einen massiven Wahlerfolg - inzwischen hat jeder Fünfte sie gewählt - und wurde zweitstärkste Kraft.
 
@@ -34,7 +34,7 @@ _Meinungsbeitrag_
 
  Mit dem von der CDU eingebrachten Sofortprogramm „Vorrang für Wettbewerbsfähigkeit und Wohlstand“ versuchte Merz, die Wirtschaft zu stabilisieren, blieb damit aber erfolglos. Stattdessen verschärfte Merz die politische Krise durch den Abbau staatlicher Sozialleistungen und die Aufweichung parlamentarischer Standards.
 
- Gleichzeitig baute die AfD ihre Position aus: Auch wirtschaftlich besser gestellte Wählerinnen und Wähler kehrten CDU und CSU zunehmend den Rücken und wandten sich der AfD zu, weil sie in ihr eine „Alternative“ sahen.
+ Gleichzeitig baute die AfD ihre Position weiter aus: Auch wirtschaftlich besser gestellte Wählerinnen und Wähler kehrten CDU und CSU zunehmend den Rücken und wandten sich der AfD zu, weil sie in ihr eine „Alternative“ sahen.
 
 ## Machtübergabe an die AfD im Jahr 2028
 

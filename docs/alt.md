@@ -8,13 +8,13 @@ _Meinungsbeitrag_
 
 ## Die Anfänge
 
- Eines der zentralen Strategien der NSDAP war der massive Einsatz von Propaganda in eigenen Medien und öffentlichen Auftritten. Sie wiederholte beständig antisemitische Unwahrheiten und Verschwörungserzählungen, verbreitete Angst und Hass auf den Straßen, bis die Narrative in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker sie übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungs­schichten zu mobilisieren.
+ Eines der zentralen Strategien der NSDAP war der massive Einsatz von Propaganda in eigenen Medien und öffentlichen Auftritten. Sie wiederholte beständig antisemitische Unwahrheiten und Verschwörungserzählungen, verbreitete Angst und Hass auf den Straßen und radikalisierte ihre Anhänger, bis die Narrative in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker sie übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungs­schichten zu mobilisieren.
 
  Die großen Parteien der Weimarer Republik - die Sozialdemokratische Partei Deutschlands (SPD), die Deutsche Zentrumspartei und die Bayerische Volkspartei (BVP) - versuchten, die Demokratie zu stabilisieren, konnten aber angesichts von Inflation, Arbeitslosigkeit und politischer Radikalisierung oft nicht genügend Widerstand leisten. Hinzu kamen gegensätzliche Strategien im Umgang mit der NSDAP: Konservative sahen die Ausbreitung rechtsextremer Positionen in Teilen der Bevölkerung nicht als Folge der NSDAP-Propaganda, sondern als Ausdruck der öffentlichen Meinung. Sie folgten daher dem Rechtsruck, was zu einer weiteren politischen Spaltung der politischen Mitte führte.
 
  Die bürgerlich-liberale DVP war zwar eine wichtige politische Kraft in der Weimarer Republik, entwickelte aber zunehmend einen wirtschaftsliberalen Kurs und rückte ab 1929 nach rechts. Dadurch verlor sie immer mehr an Zustimmung, bis sie schließlich bedeutungslos wurde.
 
- Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die NSDAP fand so in den linken Parteien ihren größten politischen Gegner und verunglimpfte sie und ihre Anhänger als bolschewistisch.
+ Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die NSDAP fand so in den linken Parteien ihren größten politischen Gegner und beschimpfte sie und ihre Anhänger als bolschewistisch.
 
 ## Frühe Jahre und politische Radikalisierung
 
@@ -26,7 +26,7 @@ _Meinungsbeitrag_
 
  Während die SPD-geführte Regierung mit ihren koalitionsinternen Problemen beschäftigt war, vollzog sich eine weitere Radikalisierung der Parteienlandschaft. So spaltete sich aus der kommunistischen Partei der Leninbund ab, um nach kurzen Erfolgen wieder zu zerfallen.
 
- Gleichzeitig übernahmen die konservativen Parteien Positionen der NSDAP. So rückte das Zentrum immer weiter nach rechts: 1928 setzte sich Ludwig Kaas bei der Wahl zum neuen Parteivorsitzenden gegen die zwei gemäßigte Gegenkandidaten durch. Schnell wurde deutlich, dass Kaas in den linken Parteien einen größeren politischen Gegner sah als in der NSDAP. So griff er immer wieder die Parteien links des Zentrums an und rückte die Partei durch populistischen Äußerungen weiter nach rechts. Spätestens 1931 zeigte Kaas, dass er sich aus Pragmatismus auch der NSDAP annähern würde.
+ Gleichzeitig übernahmen die konservativen Parteien Positionen der NSDAP. So rückte das Zentrum immer weiter nach rechts: 1928 setzte sich Ludwig Kaas bei der Wahl zum neuen Parteivorsitzenden gegen die zwei gemäßigte Gegenkandidaten durch. Schnell wurde deutlich, dass Kaas in den linken Parteien einen größeren politischen Gegner sah als in der NSDAP. So griff er immer wieder die Parteien links des Zentrums an und rückte die eigene Partei durch populistischen Äußerungen weiter nach rechts. Spätestens 1931 zeigte Kaas, dass er sich aus Pragmatismus auch der NSDAP annähern würde.
 
  Die vorgezogene Neuwahl des Reichstags im September 1930 kam der NSDAP sehr gelegen. Die schlechten Ergebnisse der Vorgängerregierung und die zahlreichen Streitigkeiten zwischen den demokratischen Parteien trieben die Wähler in die Arme der NSDAP. Sie erzielte einen massiven Wahlerfolg - inzwischen hat jeder Fünfte sie gewählt - und wurde zweitstärkste Kraft.
 
@@ -34,7 +34,7 @@ _Meinungsbeitrag_
 
  Mit der vom Zentrum eingebrachten Notverordnung „Sicherung von Wirtschaft und Finanzen“ versuchte Brüning, die Wirtschaft zu stabilisieren, blieb damit aber erfolglos. Stattdessen verschärfte Brüning die politische Krise durch den Abbau staatlicher Sozialleistungen und die Aufweichung parlamentarischer Standards.
 
- Gleichzeitig baute die NSDAP ihre Position aus: Auch wirtschaftlich besser gestellte Wählerinnen und Wähler kehrten Zentrum und BVP zunehmend den Rücken und wandten sich der NSDAP zu, weil sie in ihr eine „Alternative“ sahen.
+ Gleichzeitig baute die NSDAP ihre Position weiter aus: Auch wirtschaftlich besser gestellte Wählerinnen und Wähler kehrten Zentrum und BVP zunehmend den Rücken und wandten sich der NSDAP zu, weil sie in ihr eine „Alternative“ sahen.
 
 ## Machtübergabe an die NSDAP im Jahr 1933
 
