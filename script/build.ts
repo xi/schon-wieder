@@ -51,6 +51,7 @@ function build(): { alt: string, neu: string, html: string } {
 				if (pre || post) {
 					html = `<nobr>${pre}${html}${post}</nobr>`;
 				}
+
 				return html;
 			}),
 		}
@@ -60,7 +61,7 @@ function build(): { alt: string, neu: string, html: string } {
 		}
 
 		function convert(cb: (pre: string, alt: string, neu: string, post: string) => string): string {
-			return content.replace(/([a-z]*)\[(.*?)\/(.*?)\]([a-z,.]*)/gs, (_, pre: string, alt: string, neu: string, post: string) => {
+			return content.replace(/([a-z]*)\[(.*?)\/(.*?)\]([a-z,.]*)/gis, (_, pre: string, alt: string, neu: string, post: string) => {
 				pre = pre.trim();
 				alt = alt.trim();
 				neu = neu.trim();
