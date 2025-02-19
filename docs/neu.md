@@ -4,13 +4,17 @@ _Meinungsbeitrag_
 
 ## Ein fiktiver Ausblick
 
- Die AfD hat sich zwischen 2013 und 2028 von einer kleinen Splitterpartei zu einer der mächtigsten politischen Bewegungen in Deutschland entwickelt. Ihr Aufstieg war eng mit den politischen und wirtschaftlichen Krisen der Bundesrepublik verbunden. Zudem verbreitete die AfD massiv Propaganda. Darin wiederholte sie beständig rassistische und antisemitische Unwahrheiten, bis diese in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker die Narrative übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungsschichten anzusprechen.
+ Die AfD hat sich zwischen 2013 und 2028 von einer kleinen Splitterpartei zu einer der mächtigsten politischen Bewegungen in Deutschland entwickelt. Ihr Aufstieg war eng mit den politischen und wirtschaftlichen Krisen der Bundesrepublik verbunden.
 
- Die großen Parteien der Bundesrepublik - die Sozialdemokratische Partei Deutschlands (SPD), die Christlich Demokratische Union (CDU) und die Christlich Soziale Union (CSU) - versuchten, die Demokratie zu stabilisieren, konnten aber angesichts von Inflation, Arbeitslosigkeit und politischer Radikalisierung oft nicht genügend Widerstand leisten. Hinzu kamen gegensätzliche Strategien im Umgang mit der AfD: Konservative sahen die Ausbreitung rechtsextremer Positionen in Teilen der Bevölkerung nicht als Folge der AfD-Propaganda, sondern als Ausdruck der öffentlichen Meinung. Sie folgten daher dem Rechtsruck, was zu einer weiteren politischen Spaltung der Mitte führte.
+## Die Anfänge
+
+ Eines der zentralen Strategien der AfD war der massive Einsatz von Propaganda in eigenen Medien und öffentlichen Auftritten. Sie wiederholte beständig rassistische Unwahrheiten und Verschwörungserzählungen, verbreitete Angst und Hass auf im Internet, bis die Narrative in der Mitte der Gesellschaft angekommen waren und selbst etablierte Medien und Politiker sie übernahmen. Mit dieser erfolgreichen Propaganda­strategie gelang es ihr, breite Bevölkerungs­schichten zu mobilisieren.
+
+ Die großen Parteien der Bundesrepublik - die Sozialdemokratische Partei Deutschlands (SPD), die Christlich Demokratische Union (CDU) und die Christlich Soziale Union (CSU) - versuchten, die Demokratie zu stabilisieren, konnten aber angesichts von Inflation, Arbeitslosigkeit und politischer Radikalisierung oft nicht genügend Widerstand leisten. Hinzu kamen gegensätzliche Strategien im Umgang mit der AfD: Konservative sahen die Ausbreitung rechtsextremer Positionen in Teilen der Bevölkerung nicht als Folge der AfD-Propaganda, sondern als Ausdruck der öffentlichen Meinung. Sie folgten daher dem Rechtsruck, was zu einer weiteren politischen Spaltung der politischen Mitte führte.
 
  Die bürgerlich-liberale FDP war zwar eine wichtige politische Kraft in der Bundesrepublik, entwickelte aber zunehmend einen wirtschaftsliberalen Kurs und rückte ab 2024 nach rechts. Dadurch verlor sie immer mehr an Zustimmung, bis sie schließlich bedeutungslos wurde.
 
- Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die AfD fand in den linken Parteien ihren größten politischen Gegner und verunglimpfte sie und ihre Anhänger als links-grün-versifft.
+ Parteien links der SPD gewannen in dieser Zeit an Einfluss und forderten einen Systemwechsel, taten aber wenig bis nichts, um Wähler aus anderen Schichten zu gewinnen. Im Gegenteil, der kleinbürgerliche Mittelstand wurde verprellt. Die AfD fand so in den linken Parteien ihren größten politischen Gegner und verunglimpfte sie und ihre Anhänger als links-grün-versifft.
 
 ## Frühe Jahre und politische Radikalisierung
 
@@ -24,19 +28,19 @@ _Meinungsbeitrag_
 
  Gleichzeitig übernahmen die konservativen Parteien Positionen der AfD. So rückte die CDU immer weiter nach rechts: 2022 setzte sich Friedrich Merz bei der Wahl zum neuen Parteivorsitzenden gegen die zwei gemäßigte Gegenkandidaten durch. Schnell wurde deutlich, dass Merz in den linken Parteien einen größeren politischen Gegner sah als in der AfD. So griff er immer wieder die Parteien links der CDU an und rückte die Partei durch populistischen Äußerungen weiter nach rechts. Spätestens 2025 zeigte Merz, dass er sich aus Pragmatismus auch der AfD annähern würde.
 
- Die vorgezogene Neuwahl des Bundestags im Februar 2025 kam der AfD sehr gelegen. Die schlechten Ergebnisse der Vorgängerregierung und die zahlreichen Streitigkeiten zwischen den demokratischen Parteien trieben die Wähler in die Arme der AfD. Sie erzielte einen massiven Wahlerfolg und wurde mit rund 20 Prozent zweitstärkste Kraft.
+ Die vorgezogene Neuwahl des Bundestags im Februar 2025 kam der AfD sehr gelegen. Die schlechten Ergebnisse der Vorgängerregierung und die zahlreichen Streitigkeiten zwischen den demokratischen Parteien trieben die Wähler in die Arme der AfD. Sie erzielte einen massiven Wahlerfolg - inzwischen hat jeder Fünfte sie gewählt - und wurde zweitstärkste Kraft.
 
- CDU und CSU waren zur Regierungsbildung auf die Unterstützung der SPD angewiesen. Dies sollte sich als sehr schwierig herausstellen, da die wirtschaftspolitischen Vorstellungen der SPD und der bürgerlichen Parteien weit auseinanderlagen. Zu dem hat der Rechtsruck von CDU und CSU in Richtung der AfD-Positionen und ihre Angriffe auf die SPD das Vertrauensverhältnis zur SPD schwer beschädigt. Nachdem Merz intensive Gespräche mit der SPD geführt und sie mit der Drohung erpresst hatte, dass ein Scheitern der Regierung und der daraus resultierenden Neuwahl noch verheerender für die Demokratie in Deutschland wären, sahen sich die Sozialdemokraten gezwungen, eine Regierung unter Bundeskanzler Merz zu tolerieren.
+ CDU und CSU waren zur Regierungsbildung auf die Unterstützung der SPD angewiesen. Dies sollte sich als sehr schwierig herausstellen, da die wirtschaftspolitischen Vorstellungen der SPD und der bürgerlichen Parteien weit auseinanderlagen. Zu dem hat der Rechtsruck von CDU und CSU in Richtung der AfD-Positionen und ihre verbalen Angriffe auf die SPD das Vertrauensverhältnis zur SPD schwer beschädigt. Nachdem Merz intensive Gespräche mit der SPD geführt und sie mit der Drohung erpresst hatte, dass ein Scheitern der Regierung und der daraus resultierenden Neuwahl noch verheerender für die Demokratie in Deutschland wären, sahen sich die Sozialdemokraten gezwungen, eine Regierung unter Bundeskanzler Merz zu tolerieren.
 
  Mit dem von der CDU eingebrachten Sofortprogramm „Vorrang für Wettbewerbsfähigkeit und Wohlstand“ versuchte Merz, die Wirtschaft zu stabilisieren, blieb damit aber erfolglos. Stattdessen verschärfte Merz die politische Krise durch den Abbau staatlicher Sozialleistungen und die Aufweichung parlamentarischer Standards.
 
  Gleichzeitig baute die AfD ihre Position aus: Auch wirtschaftlich besser gestellte Wählerinnen und Wähler kehrten CDU und CSU zunehmend den Rücken und wandten sich der AfD zu, weil sie in ihr eine „Alternative“ sahen.
 
-## Machtübergabe an die AfD 2028
+## Machtübergabe an die AfD im Jahr 2028
 
 Bereits 2027 zerbrach die Regierung unter Kanzler Merz.
 
- Bei der anschließenden Wahl wurde die AfD mit 37,3 Prozent stärkste Partei und nahm sofort Koalitionsgespräche mit der CDU auf. Die CDU war tatsächlich an einem Regierungsbündnis mit der AfD interessiert. Von Seiten der AfD handelte es sich jedoch nur um Scheinverhandlungen, um zu demonstrieren, dass auch mit dem neuen Parlament keine stabile Regierung gebildet werden könne. Durch einen Verfahrenstrick gelang es der AfD, den Bundestag nach nur einer Sitzung direkt wieder aufzulösen.
+ Bei der anschließenden Wahl wurde die AfD mit 37,3 Prozent stärkste Partei und nahm sofort Koalitionsgespräche mit der CDU auf. Die CDU war tatsächlich an einem Regierungsbündnis mit der AfD interessiert. Von Seiten der AfD handelte es sich jedoch nur um Scheinverhandlungen, um zu demonstrieren, dass auch mit dem neuen Parlament keine stabile Regierung gebildet werden könne.
 
  Währenddessen kam es auf den Straßen immer wieder zu Ausschreitungen. Dabei ging die Gewalt nun überwiegend von AfD-Anhängern aus.
 
@@ -46,12 +50,17 @@ Bereits 2027 zerbrach die Regierung unter Kanzler Merz.
 
  Aus der CDU kam der Vorschlag, den „Wählerwillen“ zu akzeptieren und der Wahl Höckes zum Bundeskanzler zuzustimmen, um eine weitere Verschärfung der Krise zu verhindern. Die Konservativen glaubten, Höcke kontrollieren zu können, was sich später als fataler Irrtum erweisen sollte. Mit der Unterstützung der Konservativen wurde Höcke am 30\. Januar 2028 zum Bundeskanzler ernannt.
 
- Im Februar 2028 wurde ein Brandanschlag auf das Reichstagsgebäude verübt. Konservative und Medien schoben die Schuld mehrheitlich auf die politische Linke. Die AfD nutzte die Situation, um mit ihren Anhängern den politischen Gegner zu verfolgen. Linke Bundestags­abgeordneten mussten fliehen oder wurden verhaftet. In der Bundestags­sitzung am 24\. März 2028 wurde trotz der Warnungen der SPD mit den Stimmen von CDU, CSU und FDP die Macht an die AfD übergeben und die Demokratie faktisch abgeschafft.
+ Im Februar 2028 wurde ein Brandanschlag auf das Reichstagsgebäude verübt. Konservative und Medien schoben die Schuld mehrheitlich auf die politischen Linken. Die AfD nutzte die Situation, um mit ihren Anhängern den politischen Gegner zu verfolgen. Linke Bundestags­abgeordneten mussten fliehen oder wurden verhaftet. In der Bundestags­sitzung am 24\. März 2028 wurde trotz der Warnungen der SPD mit den Stimmen von CDU, CSU und FDP die Macht an die AfD übergeben und die Demokratie faktisch abgeschafft.
 
  Im Sommer 2029 ließ Höcke seine letzten politischen Gegner, wie Alice Weidel und andere führende AfD-Mitglieder, in einer „Säuberungswelle“ beseitigen. Als Gründe wurden unter anderem ihre Homosexualität und ein angeblicher Versuch eines „hinterhältigen Putsches“ angeführt.
 
- 2030 begann die systematische Remigration von Muslimen, Sinti und Roma, der schließlich Millionen Menschen zum Opfer fielen.
+2030 begann die systematische Remigration von Millionen Menschen.
 
 Eine der dunkelsten Epochen der deutschen Geschichte hatte begonnen.
 
 Schon wieder.
+
+„Es gibt immer wiederkehrende Zyklen, Höhen und Tiefen, aber der Verlauf der Ereignisse ist im Wesentlichen der gleiche, mit kleinen Abweichungen.  
+Man hat gesagt, dass sich die Geschichte wiederholt. Das ist vielleicht nicht ganz richtig; sie reimt sich lediglich.“ 
+
+Theodor Reik
