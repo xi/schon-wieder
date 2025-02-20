@@ -31,8 +31,8 @@ function build(): { alt: string, neu: string, html: string } {
 	const style = sass.compile('../template/main.scss', { style: 'expanded' }).css;
 
 	let template = readFileSync('../template/template.html', 'utf8');
-	template = template.replace('<!--content-->', html);
-	html = template.replace('/*style*/', style);
+	template = blockReplace(template, '<!--content-->', html);
+	html = blockReplace(template, '/*style*/', style);
 	return { alt, neu, html };
 
 	function generateContent(content: string): { alt: string, neu: string, html: string } {
@@ -69,5 +69,13 @@ function build(): { alt: string, neu: string, html: string } {
 				return cb(pre, alt, neu, post);
 			});
 		}
+	}
+
+	function blockReplace(content: string, find: string, replace: string): string {
+		const parts = content.split(find);
+		if (parts.length !== 2) throw new Error(`"${find}" must be exactly once in the content`);
+		const indent = parts[0].match(/[ \t]*$/)![0];
+		replace = replace.replace(/\n/gm, `\n${indent}`)
+		return parts.join(replace);
 	}
 }
