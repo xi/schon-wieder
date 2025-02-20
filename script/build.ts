@@ -17,8 +17,8 @@ if (process.argv[2] === 'dev') {
 } else {
 	const { alt, neu, html } = build();
 	writeFileSync('../docs/index.html', html, 'utf8');
-	writeFileSync('../docs/alt.md', alt, 'utf8');
-	writeFileSync('../docs/neu.md', neu, 'utf8');
+	//writeFileSync('../docs/alt.md', alt, 'utf8');
+	//writeFileSync('../docs/neu.md', neu, 'utf8');
 }
 
 function build(): { alt: string, neu: string, html: string } {
@@ -28,7 +28,7 @@ function build(): { alt: string, neu: string, html: string } {
 	alt = NodeHtmlMarkdown.translate(alt);
 	neu = NodeHtmlMarkdown.translate(neu);
 
-	const style = sass.compile('../template/main.scss', { style: 'compressed' }).css;
+	const style = sass.compile('../template/main.scss', { style: 'expanded' }).css;
 
 	let template = readFileSync('../template/template.html', 'utf8');
 	template = template.replace('<!--content-->', html);
