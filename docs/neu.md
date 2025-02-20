@@ -2,7 +2,7 @@ _Meinungsbeitrag_
 
 # Der Aufstieg der AfD
 
-## Ein hypothetischer Ausblick
+## Ein fiktiver Ausblick
 
  Die AfD hat sich zwischen 2013 und 2028 von einer kleinen Splitterpartei zu einer der mächtigsten politischen Bewegungen in Deutschland entwickelt. Ihr Aufstieg war eng mit den politischen und wirtschaftlichen Krisen der Bundesrepublik verbunden.
 
