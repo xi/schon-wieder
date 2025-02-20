@@ -33,14 +33,20 @@ body {
 
 	h1 {
 		text-align: left;
-		margin: calc(50vh - var(--headline)*4.5) 0 2em;
+		margin: calc(50vh - var(--headline)*4.5) 0 0;
 		font-size: calc(var(--headline) * 3);
 	}
 
 	h2 {
+		margin: 1em 0 5em;
+		text-align: left;
+		font-size: calc(var(--headline) * 1.5);
+	}
+
+	h3 {
 		margin: 2em 0 1em;
 		text-align: left;
-		font-size: calc(var(--headline) * 2);
+		font-size: calc(var(--headline) * 1);
 	}
 
 	p {
